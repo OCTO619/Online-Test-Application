@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "question": "What is the capital of Australia?",
+      "options": ["Canberra", "Sydney", "Melbourne", "Perth"]
+    },
+    {
+      "id": 2,
+      "question": "Which country has the largest population?",
+      "options": ["India", "USA", "China", "Indonesia"]
+    },
+    {
+      "id": 3,
+      "question": "Which continent is Brazil in?",
+      "options": ["Europe", "Asia", "Africa", "South America"]
+    },
+    {
+      "id": 4,
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "options": ["Japan", "Thailand", "Vietnam", "South Korea"]
+    },
+    {
+      "id": 5,
+      "question": "What is the currency of the United Kingdom?",
+      "options": ["Euro", "Dollar", "Pound Sterling", "Yen"]
+    },
+    {
+      "id": 6,
+      "question": "Which country has the Eiffel Tower?",
+      "options": ["Germany", "France", "Italy", "Belgium"]
+    },
+    {
+      "id": 7,
+      "question": "Which country is known for the Great Wall?",
+      "options": ["Japan", "Korea", "India", "China"]
+    },
+    {
+      "id": 8,
+      "question": "Which ocean borders South Africa to the west?",
+      "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Southern Ocean"]
+    },
+    {
+      "id": 9,
+      "question": "Which is the smallest country in the world by area?",
+      "options": ["Monaco", "San Marino", "Vatican City", "Liechtenstein"]
+    },
+    {
+      "id": 10,
+      "question": "Mount Everest lies on the border between which two countries?",
+      "options": ["India and Nepal", "Nepal and China", "China and Bhutan", "India and China"]
+    }
+  ]
+  
